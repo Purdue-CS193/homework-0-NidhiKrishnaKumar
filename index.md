@@ -1,8 +1,11 @@
 # Nidhi's First CS193 Homework
 
 ### These are a few of my favorite things (About CS193)
-- The Instructors! (<3)
-- Course Structure
+- Helpful Instructors
+- Course Structure and freedom
+- Independent learning mixed with live instruction
+- **I find** _this a lot_ `of fun!`
+- ![Image](https://www.liveabout.com/thmb/BUIQW6FYmqJit9WCVTKXxD5w8ZM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/animalmemes1-5ae0e018119fa800366dbd21.jpg)
 
 
 ## Welcome to GitHub Pages
